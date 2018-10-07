@@ -9,7 +9,7 @@ The Restaurant Reviews App (Stage 1) is a project included in Udacity’s Front 
 
 ## Instructions
 
-Download the repository located at https://github.com/thomason91/Restaurant-Reviews-App
+Download the repository located at https://github.com/thomason91/restaurant-reviews-app
 
 In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this, and you don't even need to know Python. For most people, it's already installed on your computer.
 
